@@ -51,7 +51,7 @@ curl -o .claude/skills/seo-page-optimizer.md https://workware.dev/api/skills/seo
 
 **Or clone just the skill you need:**
 ```bash
-git clone --filter=blob:none --sparse https://github.com/alnoorp/claude-resources.git
+git clone --filter=blob:none --sparse https://github.com/workware-labs/claude-resources.git
 cd claude-resources
 git sparse-checkout set skills/seo-page-optimizer
 ```
