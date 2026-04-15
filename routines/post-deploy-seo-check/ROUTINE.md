@@ -7,10 +7,10 @@ trigger_type: github_event
 trigger_config:
   event: deployment
   branch: main
-repository: your-org/your-repo
+repository: workware-labs/workware-labs-nextjs
 connectors:
   - name: Rampify
-    url: https://rampify.com
+    url: https://rampify.dev
 tools_used:
   - scan_page
   - get_page_seo
