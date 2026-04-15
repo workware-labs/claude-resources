@@ -9,7 +9,7 @@ trigger_config:
   branch: main
 connectors:
   - name: Rampify
-    url: https://rampify.dev
+    url: https://www.rampify.dev/api/mcp
 tools_used:
   - scan_page
   - get_page_seo

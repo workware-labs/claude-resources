@@ -4,7 +4,7 @@ description: Analyzes an existing page and produces a concrete SEO improvement p
 category: seo
 connectors:
   - name: Rampify
-    url: https://rampify.dev
+    url: https://www.rampify.dev/api/mcp
 tools_used:
   - scan_page
   - get_page_seo

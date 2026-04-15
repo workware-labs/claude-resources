@@ -8,7 +8,7 @@ trigger_config:
   cron: "0 8 * * 1"
 connectors:
   - name: Rampify
-    url: https://rampify.dev
+    url: https://www.rampify.dev/api/mcp
 tools_used:
   - get_gsc_insights
 ---

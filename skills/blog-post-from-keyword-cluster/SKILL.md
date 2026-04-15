@@ -4,7 +4,7 @@ description: Generates a fully SEO-optimized blog post from a keyword cluster. U
 category: seo
 connectors:
   - name: Rampify
-    url: https://rampify.dev
+    url: https://www.rampify.dev/api/mcp
 tools_used:
   - lookup_keywords
   - create_content_spec
