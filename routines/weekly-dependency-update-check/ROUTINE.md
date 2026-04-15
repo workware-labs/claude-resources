@@ -6,7 +6,6 @@ model: Opus 4.6 1M
 trigger_type: schedule
 trigger_config:
   cron: "0 10 * * 3"
-repository: workware-labs/workware-labs-nextjs
 connectors: []
 tools_used:
   - bash

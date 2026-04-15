@@ -6,7 +6,6 @@ model: Sonnet 4.6
 trigger_type: schedule
 trigger_config:
   cron: "0 6 * * *"
-repository: workware-labs/workware-labs-nextjs
 connectors: []
 tools_used:
   - bash

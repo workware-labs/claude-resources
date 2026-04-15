@@ -7,7 +7,6 @@ trigger_type: github_event
 trigger_config:
   event: deployment
   branch: main
-repository: workware-labs/workware-labs-nextjs
 connectors: []
 tools_used:
   - bash

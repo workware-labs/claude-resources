@@ -6,7 +6,6 @@ model: Opus 4.6 1M
 trigger_type: schedule
 trigger_config:
   cron: "0 8 * * 1"
-repository: workware-labs/workware-labs-nextjs
 connectors:
   - name: Rampify
     url: https://rampify.dev
